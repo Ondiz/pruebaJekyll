@@ -1,0 +1,7 @@
+# Ignorar archivos emacs
+
+*~
+
+# site de Jekyll
+
+_site/
