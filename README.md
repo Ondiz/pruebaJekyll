@@ -6,6 +6,7 @@ ahora se ha probado:
 * Plantillas Liquid
 * Mathjax
 * Rouge
+* Temas
 * Plugins
 
 Se usa Bundler para la gestión de las gemas.

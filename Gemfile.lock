@@ -29,6 +29,8 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
+    minima (2.1.0)
+      jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -45,6 +47,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-asciinema
+  minima
 
 BUNDLED WITH
    1.14.6
