@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # Jekyll
-gem "jekyll"
+ gem "jekyll"
 
 # This is the default theme for new Jekyll sites.
 # gem "minima", "~> 2.0"
